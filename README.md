@@ -16,3 +16,5 @@ This program demonstrates both **encryption** and **decryption**, with a user-fr
 - **Interactive Menu**  
   - Choose between ciphers and encryption/decryption options
   - Loops until the user chooses to exit.
+
+‼️Note: This project is shared for career-related purposes. If used for academic coursework, please follow your institution’s academic integrity policy.
