@@ -47,4 +47,6 @@ javac TextEncryption/*.java
 java TextEncryption.TextEncryption
 ```
 
-‼️Note: This project is shared for career-related purposes. If used for academic coursework, please follow your institution’s academic integrity policy.
+---
+
+‼️Note: This project is shared for career and portfolio purposes only. Reuse, copying or submitting this work as your own, especially for academic credit is not permitted and may violate academic integrity policies.
