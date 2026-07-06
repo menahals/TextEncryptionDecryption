@@ -1,9 +1,9 @@
 # TextEncryption
 
-A simple **Java-based application** implementing classical cryptography techniques, including **Caesar Cipher** and **Rail-Fence Cipher**.  
+A simple **Java console-based application** implementing classical cryptography techniques, including **Caesar Cipher** and **Rail-Fence Cipher**.  
 This program demonstrates both **encryption** and **decryption**, with a user-friendly looping menu system.
 
-## Features
+### Features
 
 - **Caesar Cipher**  
   - Encrypts and decrypts text using a shift value (1-25) 
@@ -16,5 +16,30 @@ This program demonstrates both **encryption** and **decryption**, with a user-fr
 - **Interactive Menu**  
   - Choose between ciphers and encryption/decryption options
   - Loops until the user chooses to exit.
+ 
+### 🛠️ Technologies Used
+
+- Java (JDK 17 or later)
+- Object-Oriented Programming (OOP)
+
+
+## 🚀 How to Run
+
+### Using Terminal
+
+1. Navigate to the project folder:
+```bash
+cd TextEncryption
+```
+
+2. Compile the program:
+```bash
+javac TextEncryption/*.java
+```
+
+3. Run the program:
+```bash
+java TextEncryption.TextEncryption
+```
 
 ‼️Note: This project is shared for career-related purposes. If used for academic coursework, please follow your institution’s academic integrity policy.
