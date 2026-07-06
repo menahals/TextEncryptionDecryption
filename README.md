@@ -27,7 +27,7 @@ This program demonstrates both **encryption** and **decryption**, with a user-fr
 
 ### Using Terminal
 
-1. Clone the repository
+1. Clone the repository:
 ```bash
 git clone https://github.com/menahals/TextEncryption.git
 ```
