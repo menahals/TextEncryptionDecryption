@@ -27,17 +27,22 @@ This program demonstrates both **encryption** and **decryption**, with a user-fr
 
 ### Using Terminal
 
-1. Navigate to the project folder:
+1. Clone the repository
+```bash
+git clone https://github.com/menahals/TextEncryption.git
+```
+
+2. Navigate to the project folder:
 ```bash
 cd TextEncryption
 ```
 
-2. Compile the program:
+3. Compile the program:
 ```bash
 javac TextEncryption/*.java
 ```
 
-3. Run the program:
+4. Run the program:
 ```bash
 java TextEncryption.TextEncryption
 ```
